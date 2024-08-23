@@ -21,7 +21,7 @@
 <?php
 
 echo "<h1>Galeria de imagens</h1>";
-echo "<h4>Bob Esponja</h4>";
+echo "<h4>Ishihara Satomi</h4>";
 echo "<table><tr>";
     for ($x=1; $x<=5; $x++) {
         echo "<td><img src= 'img/foto", $x, ".jpg'></td>";
