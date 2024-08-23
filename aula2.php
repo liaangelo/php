@@ -39,8 +39,8 @@
     //Não é necessário indentificar o tipo de variável
     //Para criar uma variável basta atribuir o valor a ela
 
-    $nome = "Heli";
-    $altura = 1.75;
+    $nome = "Ju";
+    $altura = 1.54;
     $idade = 17;
     echo "$nome tem $altura m e $idade anos de idade<br><br>";
 
