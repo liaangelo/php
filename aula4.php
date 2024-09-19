@@ -21,7 +21,7 @@
 <?php
 
 echo "<h1>Galeria de imagens</h1>";
-echo "<h4>Jang Wonyoung</h4>";
+echo "<h4>Artistas que sou fã</h4>";
 echo "<table><tr>";
     for ($x=1; $x<=5; $x++) {
         echo "<td><img src= 'https://i.pinimg.com/736x/44/07/7f/44077f6362cfd53fc44ac6228fa94082.jpg", $x, ".jpg'></td>";
